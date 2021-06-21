@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
             
-         Day 1 commit for develop branch
+         Day 1 commit for feature products
         </a>
       </header>
     </div>
