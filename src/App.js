@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Day 1 React Example for new commit
+         Day 1 commit for develop branch
         </a>
       </header>
     </div>
